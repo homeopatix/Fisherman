@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<Plugin>
+	<Information>
+		<Name>Fisherman</Name>
+		<Author>Homeopatix</Author>
+		<Version>1.13</Version>
+		<Description>
+DESCRIPTION (Francais)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Fisherman est un petit plugin pour avoir un acces rapide a votre competence de peche et a la canne a peche
+Vous pouvez effacer un raccourci avec la mollete de la souris sur le reccourci
+Definissez vos armes et votre canne a peche dans la fenetre d'options
+Cliquer sur la canne a peche pour vous en equiper, ensuite cliquer sur l'arme sondaire et ensuite la pricipale pour les reequiper
+
+DESCRIPTION (English)
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Fisherman is a small plugin to have quick access to your fishing skill and fishing rod
+You can delete a shortcut with the mouse movement on the shortcut
+Define your weapons and fishing rod in the options window
+Click on the fishing rod to equip yourself with it, then click on the probing weapon and then the main one to re-equip them
+
+DESCRIPTION (Deutsche)  
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+Fisherman ist ein kleines Plugin, mit dem Sie schnell auf Ihre Angelfahigkeiten und Angelruten zugreifen konnen
+Sie konnen eine Verknupfung mit der Mausbewegung auf der Verknupfung loschen
+Definieren Sie Ihre Waffen und Angelrute im Optionsfenster
+Klicken Sie auf die Angelrute, um sich damit auszurusten, klicken Sie dann auf die Sondierungswaffe und dann auf die Hauptwaffe, um sie neu auszurusten
+
+LIST OF ALL COMMANDS
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+(French)
+Raccourci disponible
+/Fish show - montre la fenetre
+/Fish hide - cache la fenetre
+/Fish options - affiche la fenetre d'options
+/Fish toggle - affiche ou cache la fenetre
+
+(English)
+Shortcut available
+/Fish show - show the window
+/Fish hide - hide the window
+/Fish options - display the options window
+/Fish toggle - display or hide the window
+
+(Deutsche)
+Verknupfung verfugbar
+/Fish show - zeige das Fenster
+/Fish Hide - Verstecke das Fenster
+/Fish options - Zeigen Sie das Optionsfenster an
+/Fish toggle - Fenster ein-oder ausblenden
+		</Description>
+<Image>Homeopatix/Fisherman/Resources/pluginmanager_icon.tga</Image>
+	</Information>
+	<Package>Homeopatix.Fisherman.Main</Package>
+<Configuration Apartment="Fisherman" />
+</Plugin>

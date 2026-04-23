@@ -12,5 +12,4 @@
 - Localisation des maîtres de pêche
 
 ## Données & synchro
-- Entrer le nom de ton compte la première fois (croix).
 - Les données sont enregistrées à chaque connexion/déconnexion.

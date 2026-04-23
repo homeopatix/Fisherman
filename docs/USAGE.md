@@ -6,15 +6,10 @@
 - /Alt icon : afficher/masquer l’icône
 
 ## Fonctions principales (UI)
-- Sac de pièces : porte-monnaie
-- Icône de classe : équipement
-- Coffre : coffre perso
-- Sac à dos : sac
-- Petit coffre (haut gauche) : stockage partagé
-- Loupe : recherche
-- Niveau : statistiques
-- Race : réputations
-- Petit livre (haut gauche) : quêtes épiques
+- Liste des poissons et déchets pêchable
+- Liste des canne à pêches à acheter
+- Liste des maîtres de pêche
+- Localisation des maîtres de pêche
 
 ## Données & synchro
 - Entrer le nom de ton compte la première fois (croix).

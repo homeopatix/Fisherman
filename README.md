@@ -2,23 +2,25 @@
 <img width="1536" height="1024" alt="homeo_plugins" src="https://github.com/user-attachments/assets/1b3f50fe-a4c1-4d38-9215-a1f839d7a76b" />
 
 
-# PlopIamConnected – LOTRO Plugin
+# Fisherman – LOTRO Plugin
 
 ![Lua](https://img.shields.io/badge/Lua-Plugin-blue)
 ![LOTRO](https://img.shields.io/badge/Game-LOTRO-darkgreen)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-Custom-lightgrey)
 
-AltHolic est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
-PlopIamConnected est un petit plugin pour avoir une vue agrandie de vos amis quand il se connecte
-Entrer le nom des amis que vous souhaiter suivre qui se trouve dans votre liste d'ami
-ou ajouter le nom d'un ami de guilde
+Fisherman est un plugin **Lua pour The Lord of the Rings Online (LOTRO)**  
+Fisherman est un petit plugin pour vous aider à la pêche
+Affiche tous les poissons disponible, affiche les objects utilie à acheter, 
+affiche les maitres de pêche
 
 ---
 
 # 🚀 Fonctionnalités
 
-✔️ Affiche un pop up lorsque votre ami se connecte
+✔️ Affiche tous les poissons disponible
+✔️ Affiche tous les vendeurs d'obets de pêche disponible
+✔️ Affiche tous les maître de pêche disponible et leur emplacement dans le jeu
 
 ---
 
@@ -34,11 +36,10 @@ ou ajouter le nom d'un ami de guilde
 
 | Commande | Description | 
 |--------|------------------|
-| /Plop show	| Montre la fenêtre principale |
-| /Plop hide	| Cache la fenêtre principale |
-| /Plop list	| BAffiche la liste de vos amis |
-| /Plop clearall	| Supprime tous les amis |
-| /Plop clear naomdelami	| Supprime l'ami défini |
+| /Fish show	| Montre la fenêtre principale |
+| /Fish hide	| Cache la fenêtre principale |
+| /Fish options	| Affiche la fenetre d'options|
+| /Fish toggle	| Affiche ou cache la fenêtre |
 
 ------------------------------------------------------------------------
 
@@ -46,13 +47,13 @@ ou ajouter le nom d'un ami de guilde
 
 1.  Télécharger le ZIP depuis GitHub ou LOTROInterface.
 2.  Extraire le dossier.
-3.  Copier le dossier `PlopIamConnected` dans :
+3.  Copier le dossier `Fisherman` dans :
 
     Documents\The Lord of the Rings Online\Plugins\Homeopatix
 
 4.  En jeu :
     
-    /plugins load plopiamconnected
+    /plugins load fisherman
 
 ------------------------------------------------------------------------
 
